@@ -7,8 +7,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmacodeswell&layout=compact&langs_count=8&card_width=320&theme=material-palenight" />
 </a>
 
-![Snake animation](https://github.com/emmacodeswell/emmacodeswell/blob/output/github-contribution-grid-snake.svg)
-
 
 <!--
 **emmacodeswell/emmacodeswell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
