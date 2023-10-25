@@ -4,7 +4,7 @@ I'm Emma, a Front-End Web Developer based in Toronto, ON.
 
 When I'm not dreaming up new ideas to code, you'll find me deep-diving into a new skill (right now, it's creating SVGs!) or playing Dungeons & Dragons with friends. I am open to coffee chats, so feel free to reach out. ☕
 
-I am currently looking for a remote front-end development position. 
+I am currently looking for a front-end development position. 
 
 My skills include:
 - JavaScript, JSX, HTML5, and CSS3/SASS/SCSS
