@@ -1,4 +1,4 @@
-<h1 align="center">𝓗𝓲 𝓽𝓱𝓮𝓻𝓮! 𝓘'𝓶 𝓔𝓶𝓶𝓪 ~💛</h1>
+<h1 align="center">𝓗𝓲 𝓽𝓱𝓮𝓻𝓮! 𝓘'𝓶 𝓔𝓶𝓶𝓪. 💛</h1>
 <h3 align="center">I'm an artist turned front-end web developer who can't seem to stop creating. </h3>
 
 <div align="center">
@@ -7,7 +7,7 @@
   <img align="center" height=155px width=279px alt="Anime typing gif" src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif">
 </div>
 
-<h2 align="left">~ 𝓐 𝓯𝓮𝔀 𝓯𝓪𝓬𝓽𝓼 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮 :</h2>
+<h2 align="left">𝓐 𝓯𝓮𝔀 𝓯𝓪𝓬𝓽𝓼 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮 :</h2>
 <p align="left">
   🌈 I'm a neurodivery advocate; I believe in <strong>equal-opportunity</strong> and <strong>inclusive spaces</strong>.
 </p>
@@ -22,7 +22,7 @@
 </p>
 💛 For coffee chats, anime recommendations and/or other inquiries, you can reach me at <strong>emmacodeswell@gmail.com</strong>.
 
-<h2 align="left">~ 𝓜𝔂 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼 :</h2>
+<h2 align="left">𝓜𝔂 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼 :</h2>
 <div align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html" width="50" height="50" /> 
