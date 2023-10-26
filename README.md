@@ -9,7 +9,7 @@
 
 <h2 align="left">𝓐 𝓯𝓮𝔀 𝓯𝓪𝓬𝓽𝓼 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮 :</h2>
 <p align="left">
-  🌈 I'm a neurodivery advocate; I believe in <strong>equal-opportunity</strong> and <strong>inclusive spaces</strong>.
+  🌈 I'm a neurodiversity advocate; I believe in <strong>equal-opportunity</strong> and <strong>inclusive spaces</strong>.
 </p>
 <p align="left">
   🌱 I’m currently broadening my knowledge of <strong>TypeScript, React, and MongoDB</strong>.
