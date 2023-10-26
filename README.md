@@ -2,27 +2,11 @@
 <h3 align="center">I'm an artist turned front-end web developer who can't seem to stop creating. </h3>
 
 <div align="center">
-  <img align="center" height=362px width=405px alt="Anime typing gif" src="https://github.com/emmacodeswell/emmacodeswell/blob/main/4Y8h.gif">
+  <img align="center" height=301px width=337px alt="Anime typing gif" src="https://github.com/emmacodeswell/emmacodeswell/blob/main/4Y8h.gif">
 </div>
 
-<h2 align="left">~ 𝓐 𝓯𝓮𝔀 𝓯𝓪𝓬𝓽𝓼 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮 :</h2>
-
-<p align="left">
-  🌈 I'm a neurodivery advocate; I believe in <strong>equal-opportunity</strong> and <strong>inclusive spaces</strong>.
-</p>
-<p align="left">
-  🌱 I’m currently broadening my knowledge of <strong>TypeScript, React, and MongoDB</strong>.
-</p>
-<p align="left">
-  ☁️ When I'm not dreaming up new ideas to code, you'll find me deep-diving into a new skill (right now, it's machine learning!) or playing Dungeons & Dragons with friends.
-</p>
-<p align="left">
-  👀 I am looking for a front-end development position in <strong>Toronto, ON</strong>.  
-</p>
-💛 For coffee chats, anime recommendations and/or other inquiries, you can reach me at <strong>emmacodeswell@gmail.com</strong>.
-
 <h2 align="left">~ 𝓜𝔂 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼 :</h2>
-<div align="left"> 
+<div align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html" width="50" height="50" /> 
   </a>
@@ -59,8 +43,21 @@
   <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/246px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="adobe lightroom" width="50" height="50" />
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50"/>
-  </a>
 </div>
+
+<h2 align="left">~ 𝓐 𝓯𝓮𝔀 𝓯𝓪𝓬𝓽𝓼 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮 :</h2>
+
+<p align="left">
+  🌈 I'm a neurodivery advocate; I believe in <strong>equal-opportunity</strong> and <strong>inclusive spaces</strong>.
+</p>
+<p align="left">
+  🌱 I’m currently broadening my knowledge of <strong>TypeScript, React, and MongoDB</strong>.
+</p>
+<p align="left">
+  ☁️ When I'm not dreaming up new ideas to code, you'll find me deep-diving into a new skill (right now, it's machine learning!) or playing Dungeons & Dragons with friends.
+</p>
+<p align="left">
+  👀 I am looking for a front-end development position in <strong>Toronto, ON</strong>.  
+</p>
+💛 For coffee chats, anime recommendations and/or other inquiries, you can reach me at <strong>emmacodeswell@gmail.com</strong>.
 
