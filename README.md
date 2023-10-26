@@ -3,7 +3,7 @@
 
 <h2 align="left">𝓐 𝓯𝓮𝔀 𝓯𝓪𝓬𝓽𝓼 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮 :</h2>
   <div align="center">
-    <img align="right" height=410px width=450px alt="Anime typing gif" src="https://github.com/emmacodeswell/emmacodeswell/blob/main/4Y8h.gif">
+    <img align="right" height=375px width=400px alt="Anime typing gif" src="https://github.com/emmacodeswell/emmacodeswell/blob/main/4Y8h.gif">
   </div>
 
 <div align="center">
