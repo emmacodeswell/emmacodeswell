@@ -23,7 +23,7 @@
 <p align="left">
   👀 I am looking for a front-end development position in <strong>Toronto, ON</strong>.  
 </p>
-💛 For coffee chats, anime recommendations and/or other inquiries, you can reach me at <strong>emmacodeswell@gmail.com</strong>.
+💛 For coffee chats, anime recommendations and other inquiries, you can reach me at <strong>emmacodeswell@gmail.com</strong>.
 
 <h2 align="left">𝓜𝔂 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼 :</h2>
 <div align="left">
