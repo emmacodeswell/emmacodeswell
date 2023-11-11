@@ -21,7 +21,7 @@
   ☁️ When I'm not dreaming up new ideas to code, you'll find me deep-diving into a new skill (right now, it's machine learning!) or playing Dungeons & Dragons with friends.
 </p>
 <p align="left">
-  👀 I am looking for an in-person web development position in <strong>Toronto, ON</strong>, or a remote position. 
+  👀 I am looking for an in-person web development position in <strong>Toronto, ON</strong>, or a remote position in Canada.
 </p>
 💛 For coffee chats, anime recommendations and other inquiries, you can reach me at <strong>emmacodeswell@gmail.com</strong>.
 
