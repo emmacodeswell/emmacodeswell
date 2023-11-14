@@ -15,7 +15,7 @@
   🌈 I'm a neurodiversity advocate; I believe in <strong>equal-opportunity</strong> and <strong>inclusive spaces</strong>.
 </p>
 <p align="left">
-  🌱 I’m currently broadening my knowledge of <strong>TypeScript, React, and MongoDB</strong>.
+  🌱 I’m currently broadening my knowledge of <strong>TypeScript, React, and Vue.js</strong>.
 </p>
 <p align="left">
   ☁️ When I'm not dreaming up new ideas to code, you'll find me deep-diving into a new skill (right now, it's machine learning!) or playing Dungeons & Dragons with friends.
@@ -51,9 +51,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="50" height="50" /> 
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongDB" height="50" width="50"/>
-  </a>
+  </a> -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50" />     
   </a>
