@@ -1,5 +1,5 @@
 <h1 align="center">𝓗𝓲 𝓽𝓱𝓮𝓻𝓮! 𝓘'𝓶 𝓔𝓶𝓶𝓪. 💛</h1>
-<h3 align="center">I'm an artist turned front-end web developer who can't seem to stop creating. </h3>
+<h3 align="center">I'm an artist turned front-end web developer who can't seem to stop creating.</h3>
 
 <div align="center">
   <img align="center" height=155px width=279px alt="Anime painting gif" src="https://github.com/emmacodeswell/emmacodeswell/assets/123122266/1562947d-73fa-4ef7-ba04-da2bee5f909c">
@@ -9,9 +9,6 @@
 
 <h2 align="left">𝓐 𝓯𝓮𝔀 𝓯𝓪𝓬𝓽𝓼 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮 :</h2>
 <p align="left">
-
-
-
   🌈 I'm a neurodiversity advocate; I believe in <strong>equal-opportunity</strong> and <strong>inclusive spaces</strong>.
 </p>
 <p align="left">
