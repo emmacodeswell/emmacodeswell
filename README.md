@@ -12,7 +12,7 @@
   🌈 I'm a neurodiversity advocate; I believe in <strong>equal-opportunity</strong> and <strong>inclusive spaces</strong>.
 </p>
 <p align="left">
-  🌱 I’m currently broadening my knowledge of <strong>TypeScript, React.js, and Vue.js</strong>.
+  🌱 I’m currently broadening my knowledge of <strong>TypeScript, React.js, Vue.js and MongoDB</strong>.
 </p>
 <p align="left">
   ☁️ When I'm not dreaming up new ideas to code, you'll find me deep-diving into a new skill (right now, it's machine learning!) or playing Dungeons & Dragons with friends.
