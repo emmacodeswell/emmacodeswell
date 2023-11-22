@@ -15,7 +15,7 @@
   🌱 I’m currently broadening my knowledge of <strong>TypeScript, React.js, Vue.js and MongoDB</strong>.
 </p>
 <p align="left">
-  ☁️ When I'm not dreaming up new ideas to code, you'll find me deep-diving into a new skill (right now, it's machine learning!) or playing Dungeons & Dragons with friends.
+  ☁️ When I'm not dreaming up new ideas to code, you'll find me deep-diving into a new skill, playing Dungeons & Dragons with friends or sampling the lastest bubble tea cafe in the city!
 </p>
 <p align="left">
   👀 I am looking for an in-person web development position in <strong>Toronto ON</strong>, or a remote position in Canada.
