@@ -22,7 +22,7 @@
 </p>
 💛 For coffee chats, anime recommendations and other inquiries, you can reach me at <strong>emmacodeswell@gmail.com</strong>.
 
-<h2 align="left">𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼 :</h2>
+<h2 align="left">𝓣𝓸𝓸𝓵𝓼 𝓪𝓷𝓭 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 :</h2>
 <div align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html" width="50" height="50" /> 
