@@ -20,7 +20,7 @@
 <p align="left">
   👀 I'm looking for an in-person web development position in <strong>Toronto ON</strong>, or a remote position in Canada.
 </p>
-💛 For coffee chats, anime recommendations and other inquiries, you can reach me at <strong>emmacodeswell@gmail.com</strong>.
+💛 For coffee chats, anime recommendations or other inquiries, you can reach me at <strong>emmacodeswell@gmail.com</strong>.
 
 <h2 align="left">𝓣𝓸𝓸𝓵𝓼 𝓪𝓷𝓭 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 :</h2>
 <div align="left">
