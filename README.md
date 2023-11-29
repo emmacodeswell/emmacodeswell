@@ -12,7 +12,7 @@
   🌈 I'm a neurodiversity advocate! I believe in <strong>equal-opportunity</strong> and <strong>inclusive spaces</strong>.
 </p>
 <p align="left">
-  🍓 I’m currently interning at <strong>Cranberry Payments</strong> in Toronto, ON.
+  🍓 I’m currently a software engineer at <strong>Cranberry Payments</strong> in Toronto, ON.
 </p>
 <p align="left">
   🌱 I’m broadening my knowledge of <strong>TypeScript, React.js, Vue.js and MongoDB</strong>.
