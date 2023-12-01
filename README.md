@@ -1,4 +1,4 @@
-<h1 align="center">𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓔𝓶𝓶𝓪! 💛</h1>
+<h1 align="center">𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓔𝓶𝓶𝓪! ✨</h1>
 <h3 align="center">I'm an artist turned front-end web developer who can't seem to stop creating.</h3>
 
 <div align="center">
