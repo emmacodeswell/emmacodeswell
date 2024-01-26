@@ -63,7 +63,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50 height="50" /> 
   </a>
-  <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer" >
+<!--   <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/246px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="adobe lightroom" width="50" height="50" />
-  </a>
+  </a> -->
 </div>
